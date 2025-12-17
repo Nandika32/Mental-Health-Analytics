@@ -83,6 +83,9 @@ Nandika P T
 🌱 Future Improvements
 
 -Use real-world datasets for ML training
+
 -Add authentication for users
+
 -Deploy the app publicly
+
 -Improve analytics with correlation & trend analysis
