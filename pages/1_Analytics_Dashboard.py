@@ -12,7 +12,7 @@ import os
 file_path = "mental_health_responses.csv"
 
 if not os.path.exists(file_path):
-    st.warning("No submitted responses yet.")
+    st.warning("Please submit the survey to see analytics.")
     st.stop()
 
 df = pd.read_csv(file_path)
