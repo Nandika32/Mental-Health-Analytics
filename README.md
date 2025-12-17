@@ -52,13 +52,13 @@ MentalHealthProject/
 
 
 
-##Run the application:
+## Run the application:
 
 -streamlit run app.py
 
 -Open the local URL shown in the terminal
 
-##📊 Analytics Dashboard
+## 📊 Analytics Dashboard
 
 The analytics page provides:
 
