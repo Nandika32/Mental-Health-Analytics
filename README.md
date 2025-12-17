@@ -89,3 +89,9 @@ Nandika P T
 -Deploy the app publicly
 
 -Improve analytics with correlation & trend analysis
+
+## 🚀 Live Demo
+
+Try the live version of the app here:  
+🔗 https://mental-health-analytics-vezcc7zflxskbvjcm5adqq.streamlit.app/
+
